@@ -1,4 +1,4 @@
-# low-voltage-low-power-cmos-survey
+#  A Survey of Low-Voltage Low-Power Techniques and Challenges for CMOS Digital Circuits
 
 
 # A Survey of Low-Voltage Low-Power Techniques and Challenges for CMOS Digital Circuits - Literature Review
