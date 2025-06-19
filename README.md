@@ -1,6 +1,3 @@
-#  A Survey of Low-Voltage Low-Power Techniques and Challenges for CMOS Digital Circuits
-
-
 # A Survey of Low-Voltage Low-Power Techniques and Challenges for CMOS Digital Circuits - Literature Review
 
 This document presents an in-depth literature review of the paper "A Survey of Low-Voltage Low-Power Techniques and Challenges for CMOS Digital Circuits," authored by Yu-Cherng Hung, Shao-Hui Shieh, and Chiou-Kou Tung, published by World Scientific Publishing Company in 2011. This paper offers a comprehensive overview of the driving forces, obstacles, and various design methodologies for low-voltage low-power (LVLP) CMOS digital circuits.
